@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'ladago'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_963d461ee5a6437c89ad21c52aa6bea2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f45a4aad8a204929b8b98025c5ad6f9d }}
