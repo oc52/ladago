@@ -96,7 +96,7 @@ Django==3.0.3
 django-extensions==2.2.9
 django-multifilefield==1.0
 django-multiselectfield==0.1.12
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 fabric==2.5.0
 humanfriendly==8.2
 idna==2.9
