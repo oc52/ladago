@@ -139,7 +139,7 @@ six==1.14.0
 sqlparse==0.3.1
 sshtunnel==0.1.5
 tabulate==0.8.7
-urllib3==1.25.9
+urllib3==1.26.5
 vsts==0.1.25
 vsts-cd-manager==1.0.2
 websocket-client==0.57.0
